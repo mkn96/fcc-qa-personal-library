@@ -1,1 +1,1 @@
-full stack js app using mongodb
+A Full Stack JavaScript App using MongoDB
