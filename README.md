@@ -16,15 +16,6 @@
         <li>Save all the required files into a public repository and submit the URL.</li>
       </ul>
   </ol>
-<h2>Result</h2>
-<div>
-  <p>All functional tests passed</p>
-  <img src='./Result screenshots/Functional tests.png' width='380' alt="functional-tests">
-</div>
-<div>
-  <p>All the necessary steps were completed</p>
-    <img src='./Result screenshots/Task-completed.png' width='380' alt="task-completed">
-</div>
 <h2>Helpful Links</h2>
 <ol>
   <li><a href="https://www.chaijs.com">Chai Assertion Library</a></li>
